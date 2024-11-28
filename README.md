@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am curios about new skills which have introduced in real time and try to learn the things
+👋 Hi, I'm Anil G a tech enthusiast passionate about business, PLC programming, and data analytics.  <br>💡 Always eager to learn and develop new skills, I enjoy solving problems and building innovative solutions.  <br>📈 Let's connect and collaborate on meaningful projects!  <br>
 
 
 # 💻 Tech Stack:
